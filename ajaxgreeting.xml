@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE GREETING>
+<GREETING>
+<HELLO>hello world!</HELLO>
+<GOODBYE>goodbye world!</GOODBYE>
+</GREETING>
